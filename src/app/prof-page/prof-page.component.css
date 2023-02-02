@@ -1,0 +1,76 @@
+.leftSide{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 2  00px;
+}
+
+.card-img-top{
+    max-height: 300px;
+    width: 800px;
+}
+
+.edit{
+    display: flex;
+}
+
+.edit h6{
+    display: flex;
+    margin: mr-auto;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+}
+
+.info{
+    padding-top: 5px;
+    padding-bottom: 2.5px;
+}
+
+.page{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.form-row{
+    display:flex;
+    width: 300px;
+}
+
+.bot1{
+    display: flex;
+    padding-top: 10px;
+    width: 230px;
+}
+.bot2{
+    display: flex;
+    padding-top: 10px;
+    width: 170px;
+    justify-content: space-around;
+}
+.eles{
+    display: flex;
+    justify-content: left;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
+.block{
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.elehead h5{
+    padding-bottom: 2px;
+    margin-bottom: 0px;
+}
+
+.bi.bi-plus{
+    display:flex;
+}

@@ -1,0 +1,30 @@
+.login-form{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 200px;
+}
+
+.login-form form{
+    width: 300px;
+}
+
+.smalltext{
+    padding-bottom: 5px;
+}
+
+.fake-link{
+    text-decoration: underline;
+    color: blue;
+}
+
+.fake-link:hover{
+    cursor: pointer;
+}
+
+.registraion-form{
+    display: flex;
+    justify-content: space-around center;
+    margin-top: 150px;
+    margin-left: 450px;
+    width: 800px;
+}
